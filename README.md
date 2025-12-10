@@ -48,6 +48,9 @@ Interactive buttons for:
 All, 2021, 2022, 2023, 2024
 Allows dynamic switching between years for focused analysis.
 
+## **Dasboard Preview**
+![Dashboard](https://github.com/durgesh2003dsp/Finance-Dashboard-Power-BI-Project/blob/main/power%20bi%201st%20project-%20Finance%20Dashboard.PNG)
+
 ## **4. Expense Analysis**
    
 4.1 Donut Chart – Expense Distribution
